@@ -1,0 +1,175 @@
+Team:Logistics/Warehouse
+SHA2017
+
+Operation Plan
+
+
+Introduction
+    Team Goals
+        As a subteam under the Logistics team, team Warehouse will provide
+        a small scale on-site storage facility, pre-stocked with items that
+        we expect to come in handy. We support other teams by providing them
+        with goods, that their volunteers can pick up at our warehouse. If
+        capacity allows, we can also deliver these items to volunteers in the
+        field, to minimize the interruption. We will also coordinate shopping
+        runs for items that are not yet available, but dearly needed.
+
+        A part of the warehouse will be made available for teams with storage
+        requirements that cannot be met by tents. Specifically for the rest of
+        team Logistics, we will provide a Headquarters (LHQ), from which the
+        subteams can coordinate their activities.
+
+    Organizational graph
+
+    Brief History
+        At WTH2005, no preparations were done for a warehouse. During
+        build-up, a makeshift warehouse was erected at the attic of a building
+        that happened to be available. Pre-event shopping was limited to a box
+        of office supplies; essential equipment like tie-wraps and duct tape
+        were missing. During build-up, the warehouse was completely self-service
+        without any supervision, and it was hard to keep it stocked as we had
+        already bought all the duct tape in a 25 km radius. Still though, it
+        proved to be a valuable addition to the way the event was built up and
+        centralized shopping made sharing of goods easier.
+
+        At HAR2009, the warehouse, now part of team Logistics and named
+        Logistics HeadQuarters (LHQ), was prepared in a somewhat more organized
+        fashion. However, as a result of opposing views between Logistics and
+        the core organization, the warehouse had no housing that was available
+        from early build-up until late tear-down, and was moved a total of four
+        times. Some of the LHQs were tents, causing boxes to get damp and
+        collapse, and metal parts to rust. Despite the energy wasted with
+        moving, and things getting lost and broken in the process, we now had a
+        warehouse with some supervision, resulting in a much better service
+        towards the other teams.
+
+        With OHM2013, LHQ had evolved to a temporary building comprised of
+        modular container units. It had shelving and a place to sit down and
+        organize the rest of Logistics operations. The more climate proof boxes
+        could be locked, and as such became a somewhat more secure storage
+        facility. There was enough space to adapt to changing circumstances,
+        and its central positioning relative to the rest of the orga field made
+        it well-known to all active volunteers. A simple tracking system was
+        set up using a spreadsheet.
+
+        For SHA2017, we intend to repeat the success of Logistics at OHM2013.
+        We hope to improve upon it, by inviting shift angels to assist us. This
+        should allow the LHQ staff to have some time to enjoy the event more,
+        and hopefully even allow for sufficient capacity to implement delivery
+        to the hard working teams on the rest of the terrain.
+
+Responsibilities
+
+    The subteam has dedicated volunteers, and shift angels. The dedicated
+    volunteers who are part of the larger Orga and have been preparing the
+    subteam for months in advance of the event, are the Team Leads. Other
+    dedicated volunteers have pledged to work at LHQ on site from build-up
+    to teardown, or a part of that time frame.
+
+    LHQ is staffed by its dedicated volunteers, assisted by shift angels who do
+    2-hour shifts and are not generally available outside the scope of those
+    shifts.
+
+    ↓ Tasks / Roles →               Desk    Runner  LHQ-Staff   TeamLead
+    Pre-event preparations                                      X
+    Hard decisions                                              X
+    Opening and closing LHQ                         X           X
+    Training angels                                 X           X
+    Sourcing of inventory                           X           X
+    Delivery and pick-up                    X       X           *
+    Inventory tracking              X       X       X           X
+    Answering the phone/radio       X       *       *           *
+    Validating driving licenses     *               X           X
+    Authorizing use vehicle use     bikes           X           X [1]
+    Cleaning and improving LHQ      X       X       X           X
+
+    X = Primary actor
+    * = Secondary actor, in case the primary actor is not available
+
+    [1] Large vehicles are governed by their respective subteams, i.e.
+    Shuttles, Off-Site, and On-Site.
+
+Procedures
+
+    Lending items
+        Special case: manitous, field forklifts (keys)
+            The answer is a friendly 'no'.
+
+            Only our own team members in the On-Site subteam will drive these.
+
+        Special case: other motor vehicle (keys)
+            For insurance reasons, only registered and approved drivers may
+            use motorized vehicles. This DOES apply to on-site off-road
+            vehicles like golf carts!
+
+            Registered drivers are given a wristband for easy identification.
+
+            Drivers must be sober.
+
+            Expected usage under 20 minutes: check if the vehicle's time table
+            is clear for at least 30 minutes.
+
+            Expected usage over 20 minutes: request approval from the TeamLead.
+            Note that Shuttles, On-site vehicles and Off-site vehicles, each
+            have their own subteam.
+
+            Proceed with the 'general case' procedure.
+
+        Special case: radios, batteries
+            Radio batteries can be exchanged, but not handed out individually.
+
+            Most radios are reserved for specific teams.
+
+            XXX time table? labels on radios? have ROC people hand out radios
+            instead of LHQ desk angels?
+
+        Special case: items not in inventory
+            When an item is requested that we don't have, we might still
+            be able to help out.
+
+            Ask what the item is needed for; maybe we have something else that
+            can be used instead. For example, gaffer tape with permanent marker
+            could be an alternative for a label printer; rope could be an
+            alternative for tiewraps, or vice versa. Be creative.
+
+            If the item is necessary, but not available, ask if it should be
+            bought. In case it needs buying, write down as much information as
+            you can get about the volunteer, the product, and what it's needed
+            for. We need a way to inform them when we have it. It may take a
+            day for us to buy it. If it's urgent, contact a team lead by
+            radio.
+
+            Don't make any promises. Buying things costs money and budgets are
+            limited.
+
+        General case
+            
+
+    Orders by phone or radio
+    Accepting returned items
+    Validating driving license
+    Storage of equipment
+    Emergencies
+    Other
+
+Physical resources
+
+    LHQ and the warehouse
+    Inventory
+    Inventory tracking system
+    Vehicles
+
+Temporal planning
+
+    LHQ opening times
+    Day-by-day schedule
+    Preparations
+
+        - Write this Operation Plan
+        - Write the software for inventory tracking
+        - Source hardware, required for inventory tracking
+        - Inquire about storage requirements from other teams
+        - Coordinate with subteam Pre-Event-Shopping
+        - Coordinate with team Volunteers about barcodes
+        - 
+
