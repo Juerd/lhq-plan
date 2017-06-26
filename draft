@@ -80,7 +80,7 @@ Responsibilities
     Inventory tracking              X       X       X           X
     Answering the phone/radio       X       *       *           *
     Validating driving licenses     *               X           X
-    Authorizing use vehicle use     bikes           X           X [1]
+    Authorizing vehicle use         bikes           X           X [1]
     Cleaning and improving LHQ      X       X       X           X
 
     X = Primary actor
@@ -107,7 +107,7 @@ Procedures
             Drivers must be sober.
 
             Expected usage under 20 minutes: check if the vehicle's time table
-            is clear for at least 30 minutes.
+            is clear for at least 20 + 10 = 30 minutes.
 
             Expected usage over 20 minutes: request approval from the TeamLead.
             Note that Shuttles, On-site vehicles and Off-site vehicles, each
@@ -118,10 +118,13 @@ Procedures
         Special case: radios, batteries
             Radio batteries can be exchanged, but not handed out individually.
 
-            Most radios are reserved for specific teams.
+            Most radios are reserved for specific teams. Check with the
+            schedule provided by subteam ROC (Radio Operation Center) to see if
+            they can get a radio.
 
-            XXX time table? labels on radios? have ROC people hand out radios
-            instead of LHQ desk angels?
+            Scan both the radio barcode and the battery barcode.
+
+            Proceed with the 'general case' procedure.
 
         Special case: items not in inventory
             When an item is requested that we don't have, we might still
@@ -143,14 +146,51 @@ Procedures
             limited.
 
         General case
-            
+            Only lend out to registered organizers and volunteers. They will
+            have a volunteer badge with a barcode, or an LHQ pass with a
+            barcode. If they don't have this, refer them to the Volunteer tent
+            for registration.
+
+            Specifically, we do NOT lend out items directly to villages and
+            visitors! They can try and ask an angel to accompany them with the
+            item, who will then also take care of returning the item.
+
+            Scan the item(s) first, then scan the lender's barcode.
+
+            Always ask the volunteer to return the items after use. If it's a
+            consumable item, like a bag of tie-wraps, or a roll of duct-tape,
+            we'd still like to know if it's used up, and for that we still need
+            the barcode!
 
     Orders by phone or radio
+        Typically, the same procedure as for lending items via our front desk.
+        If a mobile scanner is available, you can scan the volunteer's barcode
+        at the delivery location. However, if a mobile scanner is not
+        available: ask their name and scan at LHQ before leaving.
+
+        The option to perform deliveries may not be available all the time. It
+        depends on the availability of a runner volunteer, as the desk
+        volunteer can't easily leave.
+
     Accepting returned items
+        Thank the volunteer for returning the stuff. Detach batteries and charge
+        them. Scan the barcodes to look up the previous location in the warehouse... XXX
+
     Validating driving license
     Storage of equipment
     Emergencies
-    Other
+    Other (idle time)
+
+        Idle time can be used to charge batteries, sweep the floor, tidy the
+        shelves, play minesweeper, watch presentations via streams, etc.
+
+        Check the golf carts and bicycles for defects and soft tyres.
+
+        If you like, you can use our resources to help teams and villages
+        along, for example by looking up device specifications, calling
+        suppliers, printing and laminating signs, etc. Maybe Infodesk has some
+        desk jobs that they'd like to hand over. However, don't make any
+        promises; you still have to be stand-by for our primary duties.
 
 Physical resources
 
@@ -161,8 +201,32 @@ Physical resources
 
 Temporal planning
 
-    LHQ opening times
+    Daily schedule
+        - 10:00 LHQ opens
+        - 21:30 Radio broadcast: please return your stuff in 30 minutes, last
+                chance for full radio batteries
+        - 22:00 LHQ closes for lending new stuff, not yet for returns
+        - 22:00 clean up of LHQ: get rid of garbage, sweep floor, tidy desks
+        - 22:15 LHQ closes for returns
+        - Available outside opening times for EMERGENCIES ONLY
+
     Day-by-day schedule
+
+        - Wed Jul 26 (-8): Boels delivers LHQ units
+        - Thu Jul 27 (-7): OK Gas delivers 24 propane cannisters
+        ? Thu Jul 27 (-7): Pick up LHQ stuff from RevSpace
+        ? Thu Jul 27 (-7): Schalkoort delivers shelves
+        - Fri Jul 28 (-6): Making LHQ fully functional
+        - Sat Jul 29 (-5): Build-up phase 2 starts
+        - Tue Aug 2 (-2): Practice saying "no" to villages :)
+        - Tue Aug 4 (event 1): LHQ should be able to run on angel power now
+        - Tue Aug 8 (event 4, td 0): Prepare for tear-down: MAKE ROOM
+        - Thu Aug 9 (td 2) eve: Reduce LHQ to bare minimum, everything in boxes
+        - Thu Aug 10 (td 3): OK Gas picks up propane cannisters
+        ? Thu Aug 10 (td 3): Schalkoort picks up shelves
+        - Fri Aug 11 (td 4): Boels picks up LHQ units
+        - Fri Aug 11 (td 4): LAST DAY OF TEAR DOWN
+
     Preparations
 
         - Write this Operation Plan
@@ -171,5 +235,4 @@ Temporal planning
         - Inquire about storage requirements from other teams
         - Coordinate with subteam Pre-Event-Shopping
         - Coordinate with team Volunteers about barcodes
-        - 
 
