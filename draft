@@ -19,8 +19,6 @@ Introduction
         team Logistics, we will provide a Headquarters (LHQ), from which the
         subteams can coordinate their activities.
 
-    Organizational graph
-
     Brief History
         At WTH2005, no preparations were done for a warehouse. During
         build-up, a makeshift warehouse was erected at the attic of a building
@@ -122,7 +120,7 @@ Procedures
             schedule provided by subteam ROC (Radio Operation Center) to see if
             they can get a radio.
 
-            Scan both the radio barcode and the battery barcode.
+            Scan the radio barcode before inserting the battery.
 
             Proceed with the 'general case' procedure.
 
@@ -174,13 +172,37 @@ Procedures
 
     Accepting returned items
         Thank the volunteer for returning the stuff. Detach batteries and charge
-        them. Scan the barcodes to look up the previous location in the warehouse... XXX
+        them. Scan the barcode and scan or type the "info" command to look up
+        the previous location in the warehouse. Store it at the same location
+        where it was before. Charge the batteries.
 
     Validating driving license
-    Storage of equipment
-    Emergencies
-    Other (idle time)
+        Drivers need to be authorized by LHQ before they are allowed to take a
+        vehicle. Authorized drivers get a INSERT COLOR HERE wristband so that
+        they don't have to repeat the process.
 
+        1. Ask the driving angel to bring their license.
+        2. Verify the license
+            - photo matches face. Not sure? Escalate to team lead!
+            - driver is at least 18 years old (birth date is before 1999-07-28).
+            - license not expired during SHA (expiry date is after 2017-08-10).
+            - license must be in latin script (no cyrillic, greek, chinese, etc)
+        3. Scan the angel badge
+        4. Scan or type the command "edit-metadata". At the "groups>" prompt,
+           add "driver". (Separate groups with spaces.)
+        5. Give the driver a INSERT COLOR HERE wristband and clamp it.
+
+    Storage of equipment
+        Some shelves and some floor space are allocated for other teams.
+        Things from those locations must not be taken by others.
+
+    Emergencies
+        In case of real emergencies, drop the bureaucracy. Our rules don't
+        matter if someone's life is at stake.
+
+        However, as long as it's safe to do so, remain at the warehouse.
+
+    Other (idle time)
         Idle time can be used to charge batteries, sweep the floor, tidy the
         shelves, play minesweeper, watch presentations via streams, etc.
 
@@ -213,9 +235,10 @@ Temporal planning
     Day-by-day schedule
 
         - Wed Jul 26 (-8): Boels delivers LHQ units
-        - Thu Jul 27 (-7): OK Gas delivers 24 propane cannisters
-        ? Thu Jul 27 (-7): Pick up LHQ stuff from RevSpace
         - Thu Jul 27 (-7) mor: Schalkoort delivers shelves
+        - Thu Jul 27 (-7): OK Gas delivers 36 propane cannisters
+        - Thu Jul 27 (-7): (Off-Site) Pick up LHQ stuff from RevSpace
+        - Thu Jul 27 (-7) eve: Discuss shopping constraints with Attilla
         - Fri Jul 28 (-6): Making LHQ fully functional
         - Sat Jul 29 (-5): Build-up phase 2 starts
         - Tue Aug 2 (-3): Juerd goes home for 1 day
@@ -226,6 +249,7 @@ Temporal planning
         - Thu Aug 9 (td 2) eve: Reduce LHQ to bare minimum, everything in boxes
         - Thu Aug 10 (td 3): OK Gas picks up propane cannisters
         - Thu Aug 10 (td 3) aft: Schalkoort picks up shelves
+        - Fri Aug 11 (td 4) mor: Bring lots of stuff to RevSpace
         - Fri Aug 11 (td 4): Boels picks up LHQ units
         - Fri Aug 11 (td 4): LAST DAY OF TEAR DOWN
 
